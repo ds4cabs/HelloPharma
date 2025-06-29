@@ -20,5 +20,7 @@ Submit via:
 ### Sample Markdown Entry
 
 **🧬 GeneFormer**
-- ⭐ 3.4k | 🔗 [GitHub](https://github.com/theislab/geneformer)
+- ⭐ 3.4k | 🔗 [GitHub](https://github.com/jkobject/geneformer)
 - A transformer model pretrained on single-cell data for biomedical learning.
+
+
