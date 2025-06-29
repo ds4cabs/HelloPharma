@@ -2,7 +2,7 @@
 
 Welcome to **HelloPharma**, a monthly curated list of **interesting, open-source, and entry-level projects** at the intersection of **pharma, biotech, and AI**.
 
-Inspired by HelloGitHub, our mission is to help **industry professionals, students, and researchers** discover great tools, data, and learning resources to advance drug discovery and biomedical innovation.
+Oour mission is to help **industry professionals, students, and researchers** discover great tools, data, and learning resources to advance drug discovery and biomedical innovation.
 
 ## 🌟 What We Feature
 
