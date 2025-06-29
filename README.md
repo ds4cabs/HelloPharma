@@ -23,7 +23,7 @@ Each issue may include:
 
 - 💌 Monthly drop: [WeChat Official Account] | [Xiaohongshu]
 - 🧵 X/Twitter: `@CABS_Bio`
-- 🌐 Website (planned): `[hellopharma.io](https://www.cabsweb.org/)`
+- 🌐 Website (planned): [www.cabsweb.org](https://www.cabsweb.org/)
 
 ## 🤝 Contribute
 
