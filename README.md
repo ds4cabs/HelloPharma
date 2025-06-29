@@ -22,7 +22,7 @@ Each issue may include:
 ## 📬 Subscribe & Follow
 
 - 💌 Monthly drop: [WeChat Official Account] | [Xiaohongshu]
-- 🧵 X/Twitter: `@CABS_Bio`
+- 🧵 X/Twitter: @[CABS](https://x.com/cabsprc2023)
 - 🌐 Website (planned): [www.cabsweb.org](https://www.cabsweb.org/)
 
 ## 🤝 Contribute
